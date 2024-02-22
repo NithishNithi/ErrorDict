@@ -1,4 +1,4 @@
-package errordict
+package Errordict
 
 import (
 	"encoding/json"
