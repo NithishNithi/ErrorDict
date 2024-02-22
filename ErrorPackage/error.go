@@ -46,6 +46,6 @@ func GetErrorMessageByCode(code string) (string, error) {
 	return errMsg, nil
 }
 
-func Test() string {
+func Netxd() string {
 	return "hi"
 }
