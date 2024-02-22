@@ -9,7 +9,7 @@ import (
 var errorMap map[string]string
 
 func init() {
-	if err := loadErrorMap("ErrorPackage/error.json"); err != nil {
+	if err := loadErrorMap("error.json"); err != nil {
 		panic(err)
 	}
 }
