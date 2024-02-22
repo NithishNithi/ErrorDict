@@ -1,0 +1,13 @@
+{
+    "InvalidUser": "Please enter a valid username",
+    "InvalidPassword": "Please enter a valid password",
+    "UserNotFound": "User not found",
+    "PermissionDenied": "Permission denied",
+    "DatabaseError": "An error occurred while accessing the database",
+  
+  
+  
+    "InvalidName":"Please enter a valid name"
+  
+  }
+  
